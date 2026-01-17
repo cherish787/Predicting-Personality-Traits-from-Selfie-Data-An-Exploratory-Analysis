@@ -8,4 +8,4 @@ Following the EDA, we preprocessed the data by one-hot encoding categorical feat
 
 Despite our efforts, both models performed poorly on the available dataset, which was very small (20 samples). The negative R-squared values indicated that the models were not able to capture the underlying patterns in the data. However, the feature importance analysis from the Random Forest model suggested that trustworthiness_score, confidence_level, and eye_contact_score were the most influential features in predicting extroversion.
 
-This project serves as a valuable case study in the challenges of working with small datasets and highlights the importance of data quality and quantity in machine learning. Future work should focus on acquiring a larger and more diverse dataset to build more robust and accurate predictive models.
+This project serves as a valuable case study in the challenges of working with small datasets and highlights the importance of data quality and quantity in machine learning. Future work should focus on acquiring a larger and more diverse dataset to build more robust and accurate predictive models
