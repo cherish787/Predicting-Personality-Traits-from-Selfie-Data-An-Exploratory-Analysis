@@ -1,4 +1,4 @@
-# Predicting-Personality-Traits-from-Selfie-Data-An-Exploratory-Analysis
+# Predicting-Personality-Traits-from-Selfie-Data-An-Exploratory-Analysis.
 
 This project explores the fascinating intersection of artificial intelligence and personality psychology by attempting to predict personality traits from selfie data. The primary goal was to build a machine learning model capable of predicting a person's extroversion score based on a variety of features, including other personality scores (confidence, trustworthiness), visual cues (smile intensity, eye contact), and demographic information (age, gender).
 
