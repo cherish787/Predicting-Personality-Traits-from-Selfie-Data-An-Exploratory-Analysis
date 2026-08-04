@@ -16,7 +16,7 @@ display(df.head())
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Set the style of the visualizations
+# Set the style of the visualizations.
 sns.set_style("whitegrid")
 
 # Create histograms for the personality scores
